@@ -6175,6 +6175,11 @@
     "picocolors" "^1.0.0"
     "shell-quote" "^1.7.3"
 
+"leaflet-defaulticon-compatibility@^0.1.1":
+  "integrity" "sha512-vDBFdlUAwjSEGep9ih8kfJilf6yN8V9zTbF5NC/1ZwLeGko3RUQepspPnGCRMFV51dY3Lb3hziboicrFz+rxQA=="
+  "resolved" "https://registry.npmjs.org/leaflet-defaulticon-compatibility/-/leaflet-defaulticon-compatibility-0.1.1.tgz"
+  "version" "0.1.1"
+
 "leaflet@^1.9.0", "leaflet@^1.9.3":
   "integrity" "sha512-iB2cR9vAkDOu5l3HAay2obcUHZ7xwUBBjph8+PGtmW/2lYhbLizWtG7nTeYht36WfOslixQF9D/uSIzhZgGMfQ=="
   "resolved" "https://registry.npmjs.org/leaflet/-/leaflet-1.9.3.tgz"
